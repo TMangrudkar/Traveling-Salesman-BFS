@@ -1,2 +1,3 @@
 # Traveling-Salesman-BFS
-Traveling Salesman Problem USsng BFS
+Traveling Salesman Problem Using BFS
+In C++
